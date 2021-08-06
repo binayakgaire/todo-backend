@@ -1,3 +1,18 @@
+# Overview
+
+To-Do list project serves many purposes, one of the major purposes of the To-Do List is to let the user keep track of their personal tasks as well as professional works. It helps the users organize their future tasks in order and prioritize accordingly. Making a list in the To-Do List will help the user make sure that all their tasks are written down in all-in-one place so they don’t forget anything important. It helps user to plan the task order by showing them the tasks that needs their immediate attention.
+We made this decision to learn in demand MERN stack. That builds modern web applications. MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js frontend framework is replaced with React.js. MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.
+MongoDB - document database
+Express(.js) - Node.js web framework
+React(.js) - a client-side JavaScript framework
+Node(.js) - the premier JavaScript web server
+
+Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js the popular and powerful JavaScript server platform.
+
+![image](https://user-images.githubusercontent.com/54716128/128556725-1d56293a-2b39-4230-95f5-75bc8df94fe3.png)
+
+
+
 # Todo-Backend
 
 The backend of the todo application.
